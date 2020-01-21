@@ -1,2 +1,2 @@
 # simons-game
-Simon's Game in C
+Simon's Game in C :)

@@ -1,0 +1,3 @@
+﻿  Lab8.c
+c:\users\exitt\onedrive\documents\apsc160\lab 8\lab 8\lab8.c : fatal error C1041: cannot open program database 'C:\Users\exitt\OneDrive\Documents\APSC160\Lab 8\Lab 8\Debug\vc141.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
